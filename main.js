@@ -4,8 +4,7 @@
 // Usuario: a eleccion
 // Contraseña: 1234 
 
-let usuario = prompt("Ingrese su nombre de usuario: ");
-
+const usuario = prompt("Ingrese su nombre de usuario: ");
 let contrasenaUsuario = parseInt(prompt("Ingrese la contraseña correcta: (1234)"));
 const contrasenaCorrecta = 1234;
 
